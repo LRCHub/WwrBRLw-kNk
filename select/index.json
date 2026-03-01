@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "おめざめめーめー",
+  "base_artist": "遊佐こずえ (CV: 花谷麻妃)",
+  "createdAt": "2026-03-01T01:05:01.133249Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おめざめめーめー",
+      "artist": "遊佐こずえ(花谷麻妃)",
+      "has_synced": false,
+      "path": "select/pl_01_おめざめめーめー_遊佐こずえ(花谷麻妃).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "おめざめめーめー (GAME VERSION)",
+      "artist": "遊佐こずえ(花谷麻妃)",
+      "has_synced": false,
+      "path": "select/pl_02_おめざめめーめー_(GAME_VERSION)_遊佐こずえ(花谷麻妃).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "おめざめめーめー (GAME VERSION)",
+      "artist": "遊佐こずえ(花谷麻妃)",
+      "has_synced": false,
+      "path": "select/pl_03_おめざめめーめー_(GAME_VERSION)_遊佐こずえ(花谷麻妃).txt"
+    }
+  ]
+}
